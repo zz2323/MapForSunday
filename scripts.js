@@ -6,4 +6,12 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 var marker = L.marker([40.798664,-73.967778]).addTo(map);
 
-marker.bindPopup("<b>My Sex Dungeon!</b><br>Fuck off.").openPopup();
+var HealthCenter = mappingHealthCenterData.rows;
+
+for (var i = 0; i < HealthCenter.length; i++) {
+	
+	var individualWarmingShelter = warmingShelters[i];
+	
+	var marker = L.marker([individualWarmingShelter.latitude, individualWarmingShelter.Longitude]).addTo(map);
+	marker.bindPopup("<b>"+individualWarmingShelter.fullAddress+"</b><br>"+individualWarmingShelter.ProgramName);
+}//end of the function
