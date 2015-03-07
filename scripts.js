@@ -1,0 +1,1 @@
+var map = L.map('CHCMap').setView([40.7127, -74.005973], 13);
