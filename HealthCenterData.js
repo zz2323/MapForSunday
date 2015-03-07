@@ -1,4 +1,5 @@
-{
+var mappingHealthCenterData = {
+	
   "rows" : [
     {
       "NameofBorough" : "Bronx",
