@@ -4,4 +4,6 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	attribution : '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-var marker = L.marker([40.73084, -74.006704]).addTo(map);
+var marker = L.marker([40.798664,-73.967778]).addTo(map);
+
+marker.bindPopup("<b>My Sex Dungeon!</b><br>Fuck off.").openPopup();
