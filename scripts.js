@@ -6,11 +6,11 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 var marker = L.marker([40.798664,-73.967778]).addTo(map);
 
-var HealthCenter = mappingHealthCenterData.rows;
+var HealthCenterArray = mappingHealthCenterData.rows;
 
-for (var i = 0; i < HealthCenter.length; i++) {
+for (var i = 0; i < HealthCenterArray.length; i++) {
 	
-	var individualWarmingShelter = warmingShelters[i];
+	var EachLocation = HealthCenterArray[i];
 	
 	var marker = L.marker([individualWarmingShelter.latitude, individualWarmingShelter.Longitude]).addTo(map);
 	marker.bindPopup("<b>"+individualWarmingShelter.fullAddress+"</b><br>"+individualWarmingShelter.ProgramName);
