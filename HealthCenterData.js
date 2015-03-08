@@ -1,3 +1,4 @@
+
 var mappingHealthCenterData = {
 	
   "rows" : [
@@ -9,7 +10,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.90385,
       "latitude" : 40.831747,
       "Zip" : 10456,
-      "Telephone =Number" : "(718) 466-6072"
+      "TelephoneNumber" : "(718) 466-6072"
     },
     {
       "NameofBorough" : "Bronx",
@@ -19,7 +20,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.902303,
       "latitude" : 40.831351,
       "Zip" : 10456,
-      "Telephone =Number" : "(718) 579-2500 "
+      "TelephoneNumber" : "(718) 579-2500 "
     },
     {
       "NameofBorough" : "Bronx",
@@ -29,7 +30,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.846235,
       "latitude" : 40.84449,
       "Zip" : 10461,
-      "Telephone =Number" : "(718) 503-7714 "
+      "TelephoneNumber" : "(718) 503-7714 "
     },
     {
       "NameofBorough" : "Bronx",
@@ -39,7 +40,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.891386,
       "latitude" : 40.863226,
       "Zip" : 10458,
-      "Telephone =Number" : " (718) 933-2400"
+      "TelephoneNumber" : " (718) 933-2400"
     },
     {
       "NameofBorough" : "Bronx",
@@ -49,7 +50,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.916583,
       "latitude" : 40.824899,
       "Zip" : 10451,
-      "Telephone =Number" : "(718) 579-2597 "
+      "TelephoneNumber" : "(718) 579-2597 "
     },
     {
       "NameofBorough" : "Bronx",
@@ -59,7 +60,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.908755,
       "latitude" : 40.846883,
       "Zip" : 10453,
-      "Telephone =Number" : "(718) 716-4400 "
+      "TelephoneNumber" : "(718) 716-4400 "
     },
     {
       "NameofBorough" : "Bronx",
@@ -69,7 +70,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.857957,
       "latitude" : 40.820519,
       "Zip" : 10473,
-      "Telephone =Number" : "(718) 589-2232 "
+      "TelephoneNumber" : "(718) 589-2232 "
     },
     {
       "NameofBorough" : "Bronx",
@@ -79,7 +80,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.891854,
       "latitude" : 40.82484,
       "Zip" : 10459,
-      "Telephone =Number" : " (718) 991-4833"
+      "TelephoneNumber" : " (718) 991-4833"
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -89,7 +90,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.944738,
       "latitude" : 40.680028,
       "Zip" : 11216,
-      "Telephone =Number" : "(718) 636-4500"
+      "TelephoneNumber" : "(718) 636-4500"
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -99,7 +100,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.979162,
       "latitude" : 40.688272,
       "Zip" : 11217,
-      "Telephone =Number" : "(718) 596-9896"
+      "TelephoneNumber" : "(718) 596-9896"
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -109,7 +110,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.909699,
       "latitude" : 40.665628,
       "Zip" : 11212,
-      "Telephone =Number" : "(718) 345-5000 "
+      "TelephoneNumber" : "(718) 345-5000 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -119,7 +120,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.944687,
       "latitude" : 40.705739,
       "Zip" : 11206,
-      "Telephone =Number" : "(718) 388-0390"
+      "TelephoneNumber" : "(718) 388-0390"
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -129,7 +130,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.966265,
       "latitude" : 40.632546,
       "Zip" : 11225,
-      "Telephone =Number" : "(718) 778-0198 "
+      "TelephoneNumber" : "(718) 778-0198 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -139,7 +140,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.007098,
       "latitude" : 40.675903,
       "Zip" : 11208,
-      "Telephone =Number" : "(718) 277-8303 "
+      "TelephoneNumber" : "(718) 277-8303 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -149,7 +150,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.978844,
       "latitude" : 40.640286,
       "Zip" : 11213,
-      "Telephone =Number" : "(718) 686-7600 "
+      "TelephoneNumber" : "(718) 686-7600 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -159,7 +160,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.959456,
       "latitude" : 40.6997,
       "Zip" : 11211,
-      "Telephone =Number" : "(718) 260-4600 "
+      "TelephoneNumber" : "(718) 260-4600 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -169,7 +170,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.021233,
       "latitude" : 40.646884,
       "Zip" : 11220,
-      "Telephone =Number" : "(718) 630-7095 "
+      "TelephoneNumber" : "(718) 630-7095 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -179,7 +180,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.034145,
       "latitude" : 40.615695,
       "Zip" : 11209,
-      "Telephone =Number" : "(718) 759-9126 "
+      "TelephoneNumber" : "(718) 759-9126 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -189,7 +190,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.005883,
       "latitude" : 40.638655,
       "Zip" : 11220,
-      "Telephone =Number" : "(718) 686-2680 "
+      "TelephoneNumber" : "(718) 686-2680 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -199,7 +200,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.011742,
       "latitude" : 40.64037,
       "Zip" : 11220,
-      "Telephone =Number" : "(718) 439-5440 "
+      "TelephoneNumber" : "(718) 439-5440 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -209,7 +210,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.020203,
       "latitude" : 40.639006,
       "Zip" : 11220,
-      "Telephone =Number" : "(718) 907-8100 "
+      "TelephoneNumber" : "(718) 907-8100 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -219,7 +220,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.990442,
       "latitude" : 40.667669,
       "Zip" : 11215,
-      "Telephone =Number" : "(718) 832-5980 "
+      "TelephoneNumber" : "(718) 832-5980 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -229,7 +230,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.040335,
       "latitude" : 40.62207,
       "Zip" : 11209,
-      "Telephone =Number" : "(718) 630-8878 "
+      "TelephoneNumber" : "(718) 630-8878 "
     },
     {
       "NameofBorough" : "Brooklyn",
@@ -239,7 +240,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.009544,
       "latitude" : 40.645417,
       "Zip" : 11220,
-      "Telephone =Number" : "(718) 854-1851 "
+      "TelephoneNumber" : "(718) 854-1851 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -249,7 +250,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.983749,
       "latitude" : 40.714017,
       "Zip" : 10002,
-      "Telephone =Number" : "(212) 227-8408 "
+      "TelephoneNumber" : "(212) 227-8408 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -259,7 +260,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.937098,
       "latitude" : 40.802158,
       "Zip" : 10035,
-      "Telephone =Number" : "(212) 289-6650 "
+      "TelephoneNumber" : "(212) 289-6650 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -269,7 +270,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.001969,
       "latitude" : 40.74287,
       "Zip" : 10011,
-      "Telephone =Number" : "(212) 271-7200 "
+      "TelephoneNumber" : "(212) 271-7200 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -279,7 +280,7 @@ var mappingHealthCenterData = {
       "longitude" : -74.001083,
       "latitude" : 40.718848,
       "Zip" : 10013,
-      "Telephone =Number" : "(212) 379-6988 "
+      "TelephoneNumber" : "(212) 379-6988 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -289,7 +290,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.985695,
       "latitude" : 40.744008,
       "Zip" : 10016,
-      "Telephone =Number" : "(212) 366-4500 "
+      "TelephoneNumber" : "(212) 366-4500 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -299,7 +300,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.9474,
       "latitude" : 40.825448,
       "Zip" : 10031,
-      "Telephone =Number" : "(212) 862-0054 "
+      "TelephoneNumber" : "(212) 862-0054 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -309,7 +310,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.992477,
       "latitude" : 40.737146,
       "Zip" : 10003,
-      "Telephone =Number" : "(212) 633-0800 "
+      "TelephoneNumber" : "(212) 633-0800 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -319,7 +320,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.993916,
       "latitude" : 40.761982,
       "Zip" : 10036,
-      "Telephone =Number" : "(212) 265-4500 "
+      "TelephoneNumber" : "(212) 265-4500 "
     },
     {
       "NameofBorough" : "Manhattan",
@@ -329,7 +330,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.944499,
       "latitude" : 40.791383,
       "Zip" : 10029,
-      "Telephone =Number" : "(212) 360-2661"
+      "TelephoneNumber" : "(212) 360-2661"
     },
     {
       "NameofBorough" : "Manhattan",
@@ -339,7 +340,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.967269,
       "latitude" : 40.793614,
       "Zip" : 10025,
-      "Telephone =Number" : "(212) 316-7906 "
+      "TelephoneNumber" : "(212) 316-7906 "
     },
     {
       "NameofBorough" : "Queens",
@@ -349,7 +350,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.82348,
       "latitude" : 40.797332,
       "Zip" : 11345,
-      "Telephone =Number" : "(718) 886-1200 "
+      "TelephoneNumber" : "(718) 886-1200 "
     },
     {
       "NameofBorough" : "Queens",
@@ -359,7 +360,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.825305,
       "latitude" : 40.712075,
       "Zip" : 11435,
-      "Telephone =Number" : "(718) 657-7088"
+      "TelephoneNumber" : "(718) 657-7088"
     },
     {
       "NameofBorough" : "Queens",
@@ -369,7 +370,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.938738,
       "latitude" : 40.751367,
       "Zip" : 11101,
-      "Telephone =Number" : "(718) 784-2240"
+      "TelephoneNumber" : "(718) 784-2240"
     },
     {
       "NameofBorough" : "Queens",
@@ -379,7 +380,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.793273,
       "latitude" : 40.5923,
       "Zip" : 11692,
-      "Telephone =Number" : "(718) 634-2155 "
+      "TelephoneNumber" : "(718) 634-2155 "
     },
     {
       "NameofBorough" : "Queens",
@@ -389,7 +390,7 @@ var mappingHealthCenterData = {
       "longitude" : -73.818933,
       "latitude" : 40.709082,
       "Zip" : 11435,
-      "Telephone =Number" : "(718) 298-5100 "
+      "TelephoneNumber" : "(718) 298-5100 "
     },
     {
       "NameofBorough" : "Staten Island",
@@ -399,7 +400,8 @@ var mappingHealthCenterData = {
       "longitude" : -74.13517,
       "latitude" : 40.635261,
       "Zip" : 10302,
-      "Telephone =Number" : "(718) 876-1732"
+      "TelephoneNumber" : "(718) 876-1732"
     }
   ]
 }
+
